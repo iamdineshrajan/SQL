@@ -1,1 +1,2 @@
 # SQL
+basic sql queries
